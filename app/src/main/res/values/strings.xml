@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reddit Challenge App</string>
+    <string name="url">https://www.reddit.com</string>
+</resources>

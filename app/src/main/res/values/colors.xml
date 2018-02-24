@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <item name="light" type="color">#ffe0e0e0</item>
+    <item name="faint_light" type="color">#f2f1f1</item>
+    <item name="lighter" type="color">#8fd4d3d3</item>
+    <item name="white" type = "color" >#FFFFFF</item>
+
+</resources>
